@@ -1,4 +1,4 @@
-# Hi! 👋 Welcome to my GitHub profile. I specialise in Full Stack Development with React/Ruby on Rails.
+# Hi! 👋 Welcome to my GitHub profile. I specialise in Software Development with React/Ruby on Rails.
 
 ## :toolbox:  Skills
 
