@@ -34,7 +34,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliftondavies&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliftondavies&theme=radical&hide_border=true&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliftondavies&theme=radical&hide_border=true&hide=html,css,scss,tsql,coffeescript,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :mag:  Look me up
 
