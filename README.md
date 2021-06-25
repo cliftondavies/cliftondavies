@@ -1,4 +1,6 @@
-# Hi! 👋 Welcome to my GitHub profile. I specialise in Software Development with React/Ruby on Rails.
+# Hi! 👋 Welcome to my GitHub profile.
+
+I am a software engineer with an appreciation for detail and best practice, and experience in building SPAs and REST APIs.
 
 ## :toolbox:  Skills
 
@@ -36,8 +38,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliftondavies&theme=radical&hide_border=true&hide=html,css,scss,tsql,coffeescript,shell)](https://github.com/anuraghazra/github-readme-stats)
 
-## :mag:  Look me up
+## :mag:  Portfolio
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[website]: https://cliftondavies.netlify.app/
+[website]: https://cliftondavies.work/
