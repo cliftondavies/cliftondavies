@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I am an aspiring software engineer who has been immersed in remote development for the past 18 months, building projects ranging from SPAs and MVC apps to REST APIs and CLIs. Consequently, this ranked me in the top 256 most active GitHub users in the UK for 2020. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+Hi! I am an aspiring software engineer with an appreciation for detail and best practice. I aim for simplicity, efficiency, and the right tool when solving problems and I relish learning and striving for excellence. Currently, I am pursuing an MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
