@@ -1,6 +1,6 @@
 # Hi! 👋
 
-Hi! I am an aspiring software engineer with an appreciation for detail and best practice. I aim for simplicity, efficiency, and the right tool when solving problems and I relish learning and striving for excellence. Currently, I am pursuing an MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+I am an aspiring software engineer with a passion for building features end to end and an appreciation for detail and best practice. I aim for simplicity, efficiency, and the right tool when solving problems and I relish learning and striving for excellence. Currently, I am pursuing an MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
