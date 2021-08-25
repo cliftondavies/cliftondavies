@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Clifton. I am a graphic/web designer turned software engineer currently pursuing a part-time MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+My name is Clifton. I am a graphic designer turned software engineer currently pursuing a part-time MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
