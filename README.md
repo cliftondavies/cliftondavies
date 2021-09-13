@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Clifton. I am a graphic designer turned software engineer currently pursuing a part-time MSc in Computer Science from the University of York. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+My name is Clifton. I am a graphic designer turned software engineer and a recent graduate of Microverse: a remote software engineering school that accepts less than 1% of applicants. One of my greatest passions is to build products with a positive impact. I value quality, efficiency, and simplicity. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
