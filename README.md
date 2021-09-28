@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Clifton. I am a software engineer with experience in building secure, database-backed web applications. One of my greatest passions is to build products with a positive impact. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+My name is Clifton. I am a meticulous software engineer with experience in building secure, database-backed web applications. One of my greatest passions is to build quality products with a positive impact. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
