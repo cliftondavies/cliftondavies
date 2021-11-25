@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Clifton, and I'm a product-minded engineer skilled in both frontend and backend development. I am quite passionate about software quality, user-centered design, and building products and technologies with positive impact. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
+My name is Clifton, and I'm a generalist, product-minded engineer with a right-tool-for-the-job mindset. I am skilled in both frontend and backend development and quite passionate about software quality, user-centered design, and building products with positive impact. [Read more about me!](https://www.linkedin.com/in/clifton-davies-mbcs/)
 
 ## :toolbox:  Skills
 
