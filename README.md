@@ -37,9 +37,3 @@ My name is Clifton, and I'm a product-minded engineer with a right-tool-for-the-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliftondavies&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliftondavies&theme=radical&hide_border=true&hide=html,css,scss,tsql,coffeescript,shell)](https://github.com/anuraghazra/github-readme-stats)
-
-## :mag:  Portfolio
-
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[website]: https://cliftondavies.work/
